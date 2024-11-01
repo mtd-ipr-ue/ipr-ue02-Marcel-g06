@@ -21,7 +21,5 @@ public class ue02_1 {
             System.out.println(number3 + " ist die größte Zahl.");
         }
 
-        scanner.close();
-
     }
 }
